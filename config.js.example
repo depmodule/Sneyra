@@ -1,4 +1,4 @@
 module.exports = {
-    token: 'YOUR_BOT_TOKEN',
-    GOOGLE_SEARCH: 'YOUR_YOUTUBE_API_SEARCH_TOKEN'
+    token: 'NzA5NDczMjQxOTMyMTAzNzIw.Xrwatg.aqNAYVR7aGRH5AVrqXDPYQaHGjY',
+    GOOGLE_SEARCH: 'AIzaSyCZZJiAvZwxoi1X5udmGuJYXBqSCga8dEg'
 };
